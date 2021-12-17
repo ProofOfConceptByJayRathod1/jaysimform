@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jay Rathod
--💻 I’m working in Simform
+- 💻 I’m working in Simform
 - 🌱 I’m currently learning Git and Spring Boot
